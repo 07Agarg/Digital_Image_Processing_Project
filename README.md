@@ -1,3 +1,5 @@
+**Implementation by:** Surbhi Mittal, Ashima Garg
+
 # Automatic-Exposure-Correction
 This repository contains the code for the following problem statement. 
 
